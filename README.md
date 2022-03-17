@@ -46,3 +46,5 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=wedgles97&show_icons=true&theme=vision-friendly-dark" alt="Wedgles stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wedgles97&layout=compact&theme=vision-friendly-dark" alt="Wedgles most languages"/>
 </p>
+
+![Snake animation](https://github.com/wedgles97/wedgles97/blob/output/github-contribution-grid-snake.svg)
