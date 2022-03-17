@@ -42,9 +42,10 @@
 
 # ⚙️ &nbsp;GitHub Analytics
 
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=wedgles97&show_icons=true&theme=dark" alt="Wedgles stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wedgles97&layout=compact&theme=dark" alt="Wedgles most languages"/>
-</p>
+<div>
+  <a href="https://github.com/wedgles97">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wedgles97&show_icons=true&theme=dark"   alt="Wedgles stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wedgles97&layout=compact&theme=dark" alt="Wedgles most languages"/>
+</div>
 
 ![Snake animation](https://github.com/Wedgles97/Wedgles97/blob/output/github-contribution-grid-snake.svg)
