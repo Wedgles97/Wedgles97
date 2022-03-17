@@ -1,7 +1,7 @@
 
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Wedgles97/391aba3b8cc8d23800a5dbc7de5f6144/raw/a059d2d6e83ba0e997b57cb4c33be6c67fe5076d/githubcard.svg"/>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Wedgles97/391aba3b8cc8d23800a5dbc7de5f6144/raw/a059d2d6e83ba0e997b57cb4c33be6c67fe5076d/githubcard.svg"/> </a>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Wedgles Elinaldo</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wedgles97&color=yellow" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wedgles97&color=yellow" alt="Profile views" /> 
 
 - 🔥 Web Developer 
 
@@ -43,8 +43,8 @@
 # ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=wedgles97&show_icons=true&theme=vision-friendly-dark" alt="Wedgles stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wedgles97&layout=compact&theme=vision-friendly-dark" alt="Wedgles most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=wedgles97&show_icons=true&theme=dark" alt="Wedgles stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wedgles97&layout=compact&theme=dark" alt="Wedgles most languages"/>
 </p>
 
 ![Snake animation](https://github.com/Wedgles97/Wedgles97/blob/output/github-contribution-grid-snake.svg)
