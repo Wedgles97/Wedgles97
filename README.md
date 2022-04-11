@@ -1,11 +1,3 @@
-
-<div>
-  <a href="https://github.com/wedgles97">
-  <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Wedgles97/391aba3b8cc8d23800a5dbc7de5f6144/raw/a059d2d6e83ba0e997b57cb4c33be6c67fe5076d/githubcard.svg"/> </a>
-  <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Wedgles Elinaldo</h1>
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=wedgles97&color=yellow" alt="Profile views" /> 
-</div>
-
 - 🔥 Web Developer 
 
 - 👨‍💻 skills ** HTML, CSS and JavaScript **
