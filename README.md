@@ -12,7 +12,8 @@
 ![REACT](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 
 ```
-### I've been fascinated by technology since I was a child and currently I'm dedicated to becoming a web developer.###
+### I've been fascinated by technology since I was a child and currently 
+I'm dedicated to becoming a web developer.###
 ```
 
 ![Profile views](https://gpvc.arturio.dev/wedgles97)
