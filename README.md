@@ -1,44 +1,24 @@
-- 🔥 Web Developer 
+# Wedgles Elinaldo
 
-- 👨‍💻 skills ** HTML, CSS and JavaScript **
-
-- 🌱 I’m currently learning PHP, React.JS and React Native
-
-- 📫 How to reach me wedegles@gmail.com
-
-# 👨🏽‍🦲 &nbsp;Social Links
-
-<p align="left" style="background:yellow">
-<a href="https://twitter.com/Wedgles_" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Wedgles-05122A?style=flat&logo=twitter" alt="twitter"/>  
-</a>
-<a href="https://linkedin.com/in/wedgles-elinaldo97" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Wedgles-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://instagram.com/Wedgles_" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-Wedgles-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-</p>
-
-<br>
-
-# 🛠 &nbsp;Tech Stack
+[![Twitter Badge](https://img.shields.io/badge/-@wedgles-4B0082?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Wedgles_)](https://twitter.com/Wedgles_) 
+[![Linkedin Badge](https://img.shields.io/badge/-Wedgles%20Elinaldo-4B0082?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://linkedin.com/in/wedgles-elinaldo97)
+[![Instagram Badge](https://img.shields.io/badge/-@wedgles_-4B0082?style=flat-squarelogo=instagram&logoColor=white&link=https://twitter.com/Wedgles_)](https://instagram.com/Wedgles_) 
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
+![REACT](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 
-<br>
+```
+### I've been fascinated by technology since I was a child and currently I'm dedicated to becoming a web developer.###
+```
 
-# ⚙️ &nbsp;GitHub Analytics
+![Profile views](https://gpvc.arturio.dev/wedgles97)
 
-<div>
+<div align="center">
   <a href="https://github.com/wedgles97">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wedgles97&show_icons=true&theme=dark"   alt="Wedgles stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wedgles97&layout=compact&theme=dark" alt="Wedgles most languages"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wedgles97&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wedgles97&layout=compact&langs_count=7&theme=algolia"/>
 </div>
