@@ -1,5 +1,5 @@
 <h1 align="center" style="color: #8A2BE2">Wedgles Elinaldo da Silva</h1>
-<p align="center">💻 Desenvolvedor Web | Focado em criar soluções eficientes e inovadoras</p>
+<p align="center">💻 Desenvolvedor Frontend | Focado em criar soluções eficientes e inovadoras</p>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
@@ -15,9 +15,9 @@
 ---
 
 <div align="center">  
-  <a href="https://instagram.com/Wedgles_" target="_blank"> 
+  <!-- <a href="https://instagram.com/Wedgles_" target="_blank"> 
     <img src="https://img.shields.io/badge/-Instagram-4B0082?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
+  </a> -->
   <a href="https://linkedin.com/in/wedgles-elinaldo97" target="_blank"> 
     <img src="https://img.shields.io/badge/-Linkedin-4B0082?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Linkedin">
   </a>
